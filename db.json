@@ -3,8 +3,16 @@
         "id"            : "1",
         "title"         : "PUBG MOBILE",
         "category"      : "action",
-        "rating"        : "4.5",
-        "version"       : "asdf",
+        "version"       : "0.12.0",
+        "released-on"   : 2015,
+        "download-size" : "90 MB",
+        "price"         : 0
+    },
+        (
+        "id"            : "1",
+        "title"         : "Garena Free Fire",
+        "category"      : "action",
+        "version"       : "1.30.0",
         "released-on"   : 2015,
         "download-size" : "90 MB",
         "price"         : 0
