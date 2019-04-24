@@ -9,7 +9,7 @@
         "rating"            : "4.5",
         "price"             : 0
     },
-        (
+        {
         "id"                : "2",
         "title"             : "Garena Free Fire",
         "category"          : "action",
@@ -19,7 +19,7 @@
         "rating"            : "4.5",
         "price"             : 0
     },
-        (
+        {
         "id"                : "3",
         "title"             : "Mobile Legend",
         "category"          : "action",
@@ -29,7 +29,7 @@
         "rating"            : "4.3",
         "price"             : 0
     },
-        (
+        {
         "id"                : "4",
         "title"             : "HAGO",
         "category"          : "social",
@@ -39,7 +39,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "5",
         "title"             : "Ragnarok M:Enternal Love",
         "category"          : "RPG",
@@ -49,7 +49,7 @@
         "rating"            : "4.2",
         "price"             : 0
     },
-        (
+        {
         "id"                : "6",
         "title"             : "Gameof Sultans",
         "category"          : "RPG",
@@ -59,7 +59,7 @@
         "rating"            : "4.3",
         "price"             : 0
     },
-        (
+        {
         "id"                : "7",
         "title"             : "Lords Mobile",
         "category"          : "strategy",
@@ -69,7 +69,7 @@
         "rating"            : "4.4",
         "price"             : 0
     },
-        (
+        {
         "id"                : "8",
         "title"             : "Laplace M",
         "category"          : "RPG",
@@ -79,7 +79,7 @@
         "rating"            : "4.5",
         "price"             : 0
     },
-        (
+        {
         "id"                : "9",
         "title"             : "Clash of Kings - Wonder Falls",
         "category"          : "strategy",
@@ -89,7 +89,7 @@
         "rating"            : "4.2",
         "price"             : 0
     },
-        (
+        {
         "id"                : "10",
         "title"             : "Rise of Kingdoms: Lost Crusade",
         "category"          : "strategy",
@@ -99,7 +99,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "11",
         "title"             : "Clash of Clans",
         "category"          : "strategy",
@@ -109,7 +109,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "12",
         "title"             : "Be The King: Palace Game",
         "category"          : "RPG",
@@ -119,7 +119,7 @@
         "rating"            : "4.4",
         "price"             : 0
     },
-        (
+        {
         "id"                : "13",
         "title"             : "LifeAfter",
         "category"          : "RPG",
@@ -129,7 +129,7 @@
         "rating"            : "4.2",
         "price"             : 0
     },
-        (
+        {
         "id"                : "14",
         "title"             : "BLEACH Mobile 3D",
         "category"          : "RPG",
@@ -139,7 +139,7 @@
         "rating"            : "4.0",
         "price"             : 0
     },
-        (
+        {
         "id"                : "15",
         "title"             : "Homescapes",
         "category"          : "chill",
@@ -149,7 +149,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "15",
         "title"             : "Homescapes",
         "category"          : "chill",
@@ -159,7 +159,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "15",
         "title"             : "Homescapes",
         "category"          : "chill",
@@ -169,7 +169,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "15",
         "title"             : "Homescapes",
         "category"          : "chill",
@@ -179,7 +179,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "15",
         "title"             : "Homescapes",
         "category"          : "chill",
@@ -189,7 +189,7 @@
         "rating"            : "4.6",
         "price"             : 0
     },
-        (
+        {
         "id"                : "15",
         "title"             : "Homescapes",
         "category"          : "chill",
